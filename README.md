@@ -1,2 +1,2 @@
 # usb-stsp
-Simón Bolívar University - CI5651 - Algorithm Design I - Symmetric Traveling Salesman Problem
+Simón Bolívar University - CI5652 - Algorithm Design II - Symmetric Traveling Salesman Problem
